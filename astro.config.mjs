@@ -54,6 +54,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://toyota.alexsab.ru',
+	site: 'https://toyota-saratov.alexsab.ru',
 	base: "/"
 });

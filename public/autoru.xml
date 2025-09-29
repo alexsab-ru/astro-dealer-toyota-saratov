@@ -242,7 +242,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>9555000</price>
+			<price>15900000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
@@ -253,6 +253,54 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<images/>
 			<video/>
 		<url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-299-лс-4wd-70th-anniversary-черный-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Land Cruiser, 300 Series</folder_id>
+			<modification_id>3.4d AT (299 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>70th Anniversary</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>15600000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTMAAABJ9S4122123</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-299-лс-4wd-70th-anniversary-белый-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4550000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF7S3129369</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>

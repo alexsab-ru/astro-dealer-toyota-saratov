@@ -1335,10 +1335,10 @@ Aвтомoбиль в наличии в нашем дилерском центр
 
 Осмотреть автомобиль можно по адресу: Самара, Московское ш., 264А</Description>
 		<Price>13390000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>400000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA302017631/9cefcf9125da536e51dfee64d4417af0.jpg"/>

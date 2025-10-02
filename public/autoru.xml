@@ -1031,7 +1031,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>5950000</price>
+			<price>5650000</price>
 			<credit_discount>251000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -1093,7 +1093,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>5250000</price>
+			<price>5050000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
@@ -1150,6 +1150,83 @@ Lехus является надежным, экономичным, вмести�
 			</images>
 			<video/>
 		<url>https://toyota-saratov.alexsab.ru/cars/toyota-camry-ix-xv80-20hyb-cvt-197-лс-sport-plus-белый-2024/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Land Cruiser, 300 Series</folder_id>
+			<modification_id>3.5 AT (415 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>70th Anniversary</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>13200000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTMAA7BJ7S4112094</vin>
+			<phone>83532793702</phone>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-300-series-35-at-415-лс-4wd-70th-anniversary-черный-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure Plus</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4300000</price>
+			<credit_discount>270000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>520000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF6S3126060</vin>
+			<phone>83532793702</phone>
+			<description>В наличии TOYOTA RAV4, 2025 года выпуска, комплектация Advanture Plus
+
+Автомобиль представлен от официального дилера Тойота-Оренбург:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+
+✅ Продажа от ЮРИДИЧЕСКОГО ЛИЦА
+
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
+
+Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Большой выбор автомобилей в наличии.
+Звоните прямо сейчас!</description>
+			<images/>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-plus-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>Land Cruiser Prado, 250 Series</folder_id>

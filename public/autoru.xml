@@ -751,10 +751,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>11699000</price>
-			<credit_discount>300000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>450000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCJBJA102034169</vin>
 			<phone>83532793594</phone>
@@ -816,10 +816,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>12500000</price>
-			<credit_discount>490000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<max_discount>740000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCJBJA202050347</vin>
 			<phone>83532793594</phone>
@@ -889,10 +889,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>14999000</price>
-			<credit_discount>251000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>351000</tradein_discount>
-			<max_discount>602000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCMBHA202012498</vin>
 			<phone>83532793594</phone>
@@ -1347,7 +1347,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034170</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034170</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -1411,7 +1411,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050348</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050348</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -1483,7 +1483,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012499</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012499</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -1926,7 +1926,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034171</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034171</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -1990,7 +1990,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050349</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050349</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -2062,7 +2062,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012500</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012500</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -2505,7 +2505,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034172</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034172</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -2569,7 +2569,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050350</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050350</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -2641,7 +2641,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012501</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012501</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3084,7 +3084,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034177</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034177</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -3148,7 +3148,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050355</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050355</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3220,7 +3220,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012506</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012506</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3416,7 +3416,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034178</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034178</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -3480,7 +3480,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050356</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050356</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3552,7 +3552,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012507</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012507</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3748,7 +3748,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034179</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034179</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -3812,7 +3812,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050357</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050357</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -3884,7 +3884,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012508</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012508</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -4080,7 +4080,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>300000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>150000</tradein_discount><max_discount>450000</max_discount><currency>RUR</currency><vin>JTJCJBJA102034180</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Executive Line</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>11699000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA102034180</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации EXECUTIVE
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -4144,7 +4144,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>490000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>740000</max_discount><currency>RUR</currency><vin>JTJCJBJA202050358</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>350h 2.5hyb CVT (250 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>12500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCJBJA202050358</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 350H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 
@@ -4216,7 +4216,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>251000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>351000</tradein_discount><max_discount>602000</max_discount><currency>RUR</currency><vin>JTJCMBHA202012509</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
+		<mark_id>LEXUS</mark_id><folder_id>RX, V</folder_id><modification_id>500h 2.4hyb AT (371 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>F SPORT Performance</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2024</year><price>14999000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCMBHA202012509</vin><phone>83532793594</phone><description>В наличии нoвый OБHOBЛEННЫЙ Lехus RX 500H, в комплектации F Sport.
 
 ГИБРИДНАЯ ВЕРСИЯ.
 

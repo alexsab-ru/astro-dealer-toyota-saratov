@@ -72,69 +72,6 @@
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>b4dcc850b17a7aa391595534418e6c24</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
-
-У Нас индивидуальный подход к каждому клиенту!!!
-HОBЫЙ Toyota Highlander в комплектации Limited 2.0 4WD 8AT (248 л.с)
-
-В HАЛИЧИИ ! ! ! РУСИФИЦИPОВAH ! ! ! C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 100 000 рублей*
-✅ Выгода при приобретении автомобиля в кредит до 100 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Возможно приобретение в лизинг
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия 2 года или 50 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.</Description>
-		<Price>6500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Белый</Color>
-		<Images/>
-		<Make>Toyota</Make>
-		<Model>Highlander</Model>
-		<GenerationId>17083478</GenerationId>
-		<ModificationId>18559960</ModificationId>
-		<ComplectationId>18559964</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LVGEU76A4SG049244</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452245827</ContactPhone>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
 		<Id>6a3d7e3e02623daed51f3fca3295ca24</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -178,7 +115,32 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<InsuranceDiscount/>
 		<MaxDiscount/>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/ba10cf461f72fc7f3fd834be1f0ed03b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/366fee59d1beb37a682b4ec16064c40b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/5bee622063d64db110606b5efcee0611.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/7ceaf1ac66402981e0fc53b7236fb510.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/16be06ccef83c9aa77715aac71c7ca76.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/476d38d2102559448aa891df73dfddb5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/c900dae4217271f7c70e791c3ad869ad.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/37eeb98295892e13a3f93f941c84b2e9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/f007f225d4ea0094e747fdc0156f81ed.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/0d4166d34824951801f03f1a5399ffcb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/a5a0a44204c2ce847b3592c6020aec6c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/400114d09d364884d822e466632687ef.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/421d7f82090abe23b09828206a8c4956.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/6d7a3efe34a2a7a5a3855e1c0eada4c7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/2c4355ca1f2627dbc82749fe415580de.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/6f8bb9e7537c2e766eb497577df8f4e9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/4f2de9387b732420653385a7d6778ebb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/b14cb42ed39cd0c56e3d849b47f98c6c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/d62a24e74af7c09cf43519e848890f27.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/b14fcccf322c3d30562eaf1e12007f6e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/152532b84e3f63b8c7e6f3f6541d315e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/f5b7f3a6fb3dbe0070f6825104f73ae7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/2078f5b777ae9aa319ddff722f072268.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76A5SG049348/0c78fb5b2bb5ff7ccee453487765dd6f.jpg"/>
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Highlander</Model>
 		<GenerationId>17083478</GenerationId>
@@ -241,7 +203,28 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<InsuranceDiscount/>
 		<MaxDiscount/>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/4ce65ed313531563544b5a3949e7385b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/ce800386ba1e67e7579eb78ba7432c73.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/d75cf8d3163a9e82f3a2cb0339a8d67e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/3c4e9b23e6471bb604e57e250e3f3ffa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/a3c8aa176e2ea8303f9ac9dae9c6bc82.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/ec47b398969796bc6312b1b51a32bf38.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/e314d1d5c4f9a4c31482ba54b9714144.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/f545331f9de4eecfb7d38ee236bd8f3a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/ea7d5a949ddce92c85cef835dc92eafa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/37e5ed5bc6e1e2efc7e34319e09f5186.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/e19b1072561d3b26c2104ff36a279bff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/b421d47c907b3f2d6ffe74b7bbdc3e15.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/c50f95697946195156fe0807719100a2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/8ebc46ae37e5b6e98b27ad386aeb442b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/73d994857d8b34e2c869e3ddfc8e8a6d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/72f86a5786e4fe4a76134595fe8800d0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/3c4da1ea8510811902e19a98cb526822.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/deb559cd5a818c3fe68e136e2dd23df5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/5e3bd4f1c4c952311ed363c566e7bd58.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGEU76AXSG050172/05b0854e12872833a85a14f7494366a1.jpg"/>
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Highlander</Model>
 		<GenerationId>17083478</GenerationId>

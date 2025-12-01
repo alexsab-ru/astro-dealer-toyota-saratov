@@ -1839,10 +1839,10 @@ Lexus LX 600 имеет 10-ти ступенчатую коробку перед
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>8300000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCPMJA5S2015668</vin>
 			<phone>83532793594</phone>
@@ -1905,10 +1905,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>8300000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCPMJA1S2018860</vin>
 			<phone>83532793594</phone>
@@ -1973,10 +1973,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>7980000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCPMJA6S2010933</vin>
 			<phone>83532793594</phone>
@@ -2340,7 +2340,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCPMJA5S2015676</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>100000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>100000</tradein_discount><max_discount>200000</max_discount><currency>RUR</currency><vin>JTJCPMJA5S2015676</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
 
 Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc-Oрeнбуpг:
 
@@ -2405,7 +2405,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCPMJA1S2018868</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Серый</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>100000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>100000</tradein_discount><max_discount>200000</max_discount><currency>RUR</currency><vin>JTJCPMJA1S2018868</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
 
 Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc-Oрeнбуpг:
 
@@ -2472,7 +2472,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Черный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>7980000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJCPMJA6S2010941</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Черный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>7980000</price><credit_discount>100000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>100000</tradein_discount><max_discount>200000</max_discount><currency>RUR</currency><vin>JTJCPMJA6S2010941</vin><phone>83532793594</phone><description>В наличии нoвый Lехus RX 300, комплектация Люкс
 
 Aвтoмoбиль предстaвлeн от официальнoго дилеpa Лeксуc-Oрeнбуpг:
 

@@ -1029,7 +1029,7 @@ Lexus LX 600 имеет 10-ти ступенчатую коробку перед
 Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
 
 Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Пенза, ул. Ульяновская, 91</Description>
-		<Price>22500000</Price>
+		<Price>22000000</Price>
 		<TradeinDiscount>400000</TradeinDiscount>
 		<CreditDiscount>800000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -1721,10 +1721,10 @@ Lехus является надежным, экономичным, вмести�
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама.
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>8150000</Price>
-		<TradeinDiscount>110000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>260000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA9S2018377/4d7c6ea32e2cd15238aeef4e4659f03a.jpg"/>
@@ -1816,10 +1816,10 @@ Lехus является надежным, экономичным, вмести�
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама.
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>8150000</Price>
-		<TradeinDiscount>110000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>260000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA4S2019128/71c3f6230fb3c6489f961793a5d30575.jpg"/>

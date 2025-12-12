@@ -991,31 +991,32 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-черный-2025/</url></car>
 	<car>
 			<mark_id>Lexus</mark_id>
-			<folder_id>RX, V</folder_id>
-			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Enjoy</complectation_name>
+			<folder_id>ES, VII Рестайлинг 2</folder_id>
+			<modification_id>200 2.0 CVT (173 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Premium</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>В наличии</availability>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>8190000</price>
+			<price>6350000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>JTJCPMJA8S2018774</vin>
-			<description>Обновленный Leхus RX300AWD 2026 модельного года, в наличии в нашем дилерском центре Лексус Самара. Не упустите возможность забронировать его первым.
+			<vin>JTHB31B17S2694896</vin>
+			<description>Обновленный Leхus ES200 2026 модельного года, в наличии в нашем дилерском центре Лексус Самара. Не упустите возможность забронировать его первым.
 
 Автомобиль японской сборки. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
 Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А.
 - Новый 14" сенсорный дисплей
-- Камеры кругового обзора.
 - Подогрев и вентиляция передних сидений.
+- Автоматический дальний свет
+- Адаптивный круиз-контроль
 
 Уникальное предложение по кредиту от «Тойота Банк» - 17,9% * с первоначальным взносом всего 10%
 
@@ -1039,31 +1040,43 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/01/2026 и носит информационный характер. Условия и срок действия предложения могут быть изменены  банком в одностороннем порядке.  Не является публичной офертой (ст. 437 ГК).</description>
 			<images>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/4984e7fae7b8f34082fe7906ae184239.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/49e087b1c89c9ae1a92a7ea619b86942.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/ed51d0f71f4e5ff3bdcaf19a326545f1.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/df60cec4d5b378d2b494d702e248e428.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/249518ca646b576a3eda1157010591c6.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/dd74edbcc874669fcd1afc5a843ddadb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/7fc82925ae5958df3da41d5bd27566eb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/cac213083ba37ee55660495aa156e172.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/92642a0abc0dfe431ae1854839bbd009.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/604f41e8558846d429f4e20ce33efe3e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/35997d3209c686287a61814fb2f00852.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/948e7bb0ca45f93a3d22ab2bbe774a5a.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/c595d2e0aec1635d6a06a490f1c29539.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/2b83c6e6a3d79af80cc194ac379abbfa.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/82241bca46f86c3c8c9f55e7a8851a16.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/46a5d2ab9640e30ed6540af57e9afcd7.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/a7c86d62c37a16a7a9c37b1715cc7620.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/e92197e01a554d8331cb780a62f70f0b.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/849fde270b310decab0f28553df590b2.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/55f4f5a8b258fce4cbc6cba193fcf2d9.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/86ed35d74c07423801eafe0618dedc06.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/efcc418f7af8968774c28d515cb51443.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/a74494dc58dbafadfa6ba3c3e88d9e07.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/07b0ae8de866fb37e1d5a0d303412a7e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/111d1b08c10778258cf91e62963c37df.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/51d14fe83f1c3ba5eacbf27040f47493.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/963b1f402a5b896eaf25cbe66916f207.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/25b3e1fddc140efd999f92c8d88968d3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/010a74640f14c88dec523575d68f2861.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/216d73cda166610e79c5d14cceadfdda.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/5c9d8d5234aa711fa640cc2b86dd8c09.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/096cb7e3782d1b63820e3eb1e84efe07.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/7d4748312a426a83385ecf11ddf068aa.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/3f5e7a01feed754ff7ded354cfb2bf2b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/650c4927ad8ba34402df0132148744fc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/48f388b358b220ee2e4f8988c65a822a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/3122b21882c763969ae1a3da24004dc4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/d99332a3fb8a02fadc7ac01e46d302b8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/fc82e2cf1ac784654c6c42e9076f073e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/46bbcbd0a5af2e94b5620d9b5862e5ea.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/2fb2f93b47df2fb0bc5b2807371819ac.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/44003f9ff4c8dcab533fb2e1145d1fdf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/7037c17ef76d0620ba7c2ead5aa04732.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/82a18cb5c72060e8dfbaa7498248cb58.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/8b47ae652d0c322b8b1c45f2dccb8ebf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/3fa704105b063bafe24e6c6ef912fab1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/5fc9c468945c84f0ae4ae119e0bf04b3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/b57ba108b7e9644be97860399df3ecf7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/320f3b4fc6c0d6cdcff4de0d4997130d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/29dae7bed25eb424de2fe92e10b40ba1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/ad20ea568273dc46fba59f0cce955635.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/4abe0ffc213130896014b2051875fdd5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/b0d8593ccb39f72b7259c88a698c42b0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/def29336c72fb33cffcdae4dd7f8925e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/3f3bfa9919d45fd6264f7bf5dd421582.jpg</image>
+				<image>https://photo.toyotasever.ru/JTHB31B17S2694896/1a25f1a441ef7b8e93c5ee6f227c9979.jpg</image>
 			</images>
 			<video/>
-		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car>
+		<url>https://toyota-saratov.alexsab.ru/cars/lexus-es-vii-рестайлинг-2-200-20-cvt-173-лс-premium-черный-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
@@ -1073,7 +1086,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
-			<availability>В наличии</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
@@ -1156,7 +1169,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
-			<availability>В наличии</availability>
+			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
@@ -1224,6 +1237,89 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-серый-2025/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Enjoy</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>В наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>8190000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCPMJA8S2018774</vin>
+			<description>Обновленный Leхus RX300AWD 2026 модельного года, в наличии в нашем дилерском центре Лексус Самара. Не упустите возможность забронировать его первым.
+
+Автомобиль японской сборки. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера LEXUS в Самаре на Московском шоссе 264А.
+- Новый 14" сенсорный дисплей
+- Камеры кругового обзора.
+- Подогрев и вентиляция передних сидений.
+
+Уникальное предложение по кредиту от «Тойота Банк» - 17,9% * с первоначальным взносом всего 10%
+
+
+✅ Выгодный обмен Вашего автомобиля по программе Trade-in
+✅ Оформление в кредит. Кредитование от АО «Тойота Банк» при поддержке ООО «Тойота Мотор», а также более 10 банков-партнеров. Кредитуем все регионы РФ. Более 50 кредитных программ.
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+
+**Ставка указана по кредитной программе «Акционный 11_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля.
+
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама. 
+
+Банк может отказать в выдаче кредита. Предложение действует до 31/01/2026 и носит информационный характер. Условия и срок действия предложения могут быть изменены  банком в одностороннем порядке.  Не является публичной офертой (ст. 437 ГК).</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/307a458c4ddf0d3a0fc152d7e7e8dcc6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/a65753313749132174c0c6eb8430d583.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/566e1761ea36a7f67433bb122d086ee7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/ddfca5bdb76804bf94c0ea7c0ab52546.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/3e2a429afad570a57694b936ba6241f1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/cf5555f23a64c8b9a74efe3d86f7cb0c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/81781e85dfa80b0f5522d9bdf9284e4e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/1ac3f2b6ad4f52657cdcf6688ae76cc3.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/eb39fed6e92a095cc9a0ce85ec0c5c2d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/097f1a72a23abb132324bce1e9d5e63e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/dc415fd0895d29d55b73bc32467ee22c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/d0eb76e72b88e629262fa09b24fed3d4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/08f604afb1b01ad32710b9f176fe4051.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/4c5bfb96aa506b90a46e92384f3a50d4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/921628bec5f27d5eeb3ae75e5d1ef20c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/a05f064538824aa4ef6f5dba78253fae.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/ce138d837d6a425c6aac390e1ff09538.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/83951a1f939f454148b3b0fa695cca67.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/9e9ff4499aede48e6230203a5563e67d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/b6d1c8352ff35b558942c98b8e8311c7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/7bd2f5c92d352a94435b08c059a3c706.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/5d6ec5c18b0ffc938b99dd68a90f5a31.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/33f3baf98eb40a4ac03b2b8e7ba5a3c9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/2ed1521b5062a8b3c3c4e41530672262.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/7dbbc6cf2904eed677312dcfa14f4ebd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/49360434868776fda52a15219d26ab3c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/dbc1b97a902f5baea61757ec92b4df80.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/32343d2997e228d761ebd14d3ec909dc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/c48daeea11ac3e63fea624d8f52ea4a6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA8S2018774/efcc418f7af8968774c28d515cb51443.jpg</image>
+			</images>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>

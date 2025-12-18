@@ -2,6 +2,76 @@
 <data>
   <cars><car>
 			<mark_id>Toyota</mark_id>
+			<folder_id>HiAce, H300</folder_id>
+			<modification_id>2.8d MT (150 л.с.)</modification_id>
+			<body_type>Минивэн</body_type>
+			<complectation_name>Импорт</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2022</year>
+			<price>8200000</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTFHB9CP906034789</vin>
+			<description>Комплектация «Импорт»
+
+✅ Активная безопасность:
+
+Антиблокировочная система
+✅ Пассивная безопасность:
+
+Подушки безопасности водителя
+✅ Противоугонная система:
+
+Иммобилайзер
+Центральный замок
+✅ Помощь при вождении:
+
+Бортовой компьютер
+✅ Комфорт:
+
+Усилитель руля
+✅ Управление климатом и обогрев:
+
+Кондиционер
+
+✅ Доступен в кредит по ставке 17,9*%
+*Ставка указана по кредитной программе «Акционный 11_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля.
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.   Слово «Реклама» нужно добавлять в рекламный текст, если размещение рекламы будет в интернете. В баннере на фасаде/других печатных материалах слово «Реклама» не пишем.
+Банк может отказать в выдаче кредита. Предложение действует до 31/01/2026 и носит информационный характер. Условия и срок действия предложения могут быть изменены  банком в одностороннем порядке.  Не является публичной офертой (ст. 437 ГК).</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/03de84e2140c66aff759034e9e9b34ec.jpg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/d6fd6be93e54bbae7d7fbf5fd961b544.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/c56ebe46ee40ac454e558ada3ef55e2c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/2513b5be8bac087685cc096d8a183df4.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/8baaed0d20f285808fe1413a022139b1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/572f3164758cb863f92a261a91bbaa93.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/a43bcc7bad728df96fa2f08fe16d9deb.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/584f6848affffcefa92ed9d5eaedbde6.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/86d5c722a007bfe06dbbd505ca68f7e1.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/aaf634bca40ac9ee6ad0a54c868c043b.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/5d8c66e318241d6c26f7d4528e1e5a0f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/e9e2fc2054a982f54addd4dd3bdf6e45.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/0def1a2639b1b2fc2ca983869730d66c.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/e481eeb7198badbfc000bfc8e59ad367.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/cc6d67f8eca6e979a413fda3b59c4f05.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/78b81d72e60f4b03de1e01cb776731c9.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/1be4aa2e2369e6e73351351fdc390a23.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/89e9db3701e4434dd734990deb81941d.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTFHB9CP906034789/35ef0942a7831998283c4174fc734630.jpeg</image>
+			</images>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-hiace-h300-28d-mt-150-лс-импорт-белый-2022/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
 			<folder_id>Highlander, IV (U70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
@@ -13,11 +83,11 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6500000</price>
-			<credit_discount>0</credit_discount>
+			<price>6450000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A5SG049348</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -97,11 +167,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76AXSG050172</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -177,11 +247,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A3SG050241</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -236,13 +306,13 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76AXSG051399</vin>
+			<vin>LVGEU76A0SG051170</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
 
 У Нас индивидуальный подход к каждому клиенту!!!
@@ -295,13 +365,13 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76A0SG051170</vin>
+			<vin>LVGEU76AXSG051399</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
 
 У Нас индивидуальный подход к каждому клиенту!!!
@@ -354,11 +424,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A1SG050593</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -439,11 +509,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>6450000</price>
-			<credit_discount>0</credit_discount>
+			<price>6340000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A2SG051283</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -526,9 +596,9 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<year>2024</year>
 			<price>10950000</price>
 			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
+			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<max_discount>250000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTEAACAJ4RK010943</vin>
 			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
@@ -607,10 +677,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>16500000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTMAAABJ3S4125227</vin>
 			<description>HOBЫЙ Тоyоta Land Сruisеr 300 в максимaльной кoмплектaции ПРЕМИУМ c дизельным двигатeлeм
@@ -672,10 +742,10 @@ KРEДИT OT 17.9% !!!
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>16600000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTMAB7BJ3S4203893</vin>
 			<description>HOBЫЙ Тоyоta Land Сruisеr 300 в максимaльной кoмплектaции ПРЕМИУМ c дизельным двигатeлeм
@@ -907,6 +977,92 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-черный-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4650000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF1S3133739</vin>
+			<description>Хотите ощутить свободу движения и комфорт современных технологий ?
+
+Тогда данное предложение именно для Вас!
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
+
+Комплeктация "Аdventure Рlus", двигaтель бензиновый 2,0 л (171 л.с.)
+C кaмеpами кpугoвoго oбзoрa и элeктрoприводом бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгода при приобретении автомобиля в кредит до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Возможно приобретение в лизинг
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия 2 года или 50 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Ставка указана по кредитной программе «Акционный 11_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля.
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.   Слово «Реклама» нужно добавлять в рекламный текст, если размещение рекламы будет в интернете. В баннере на фасаде/других печатных материалах слово «Реклама» не пишем.
+Банк может отказать в выдаче кредита. Предложение действует до 31/01/2026 и носит информационный характер. Условия и срок действия предложения могут быть изменены  банком в одностороннем порядке.  Не является публичной офертой (ст. 437 ГК).</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/e66c2394a4a7387afb94c7fab69c3af4.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/1becb183ebbcdd4ff779972bd239d17a.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/89a1f463e7060a6fbb8565eb7cfb5e93.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/97d609479ecdf58bbb5f4878cbb2262c.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/cb6e9bce281001ad8a4517461c1eca9a.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/7cd39d11eb0caef43ef13e9ae485f95e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/ebd661a4d78c2997b8ebb32d3924e007.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/438918c92f425d7946325f9dff15477a.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/ddb49a7efa5b803bef0b22b72b71348e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/6db0cd0db865ad4992a3e333d29780f7.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/2edb574d8fce48726ac600c33b728907.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/e600c911489ad7f374c91634cb306f7b.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/59eeb4ef9c6242efa6e45427a8daf3aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/96bdee0209183be785e5c468158b92ad.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/fec61185447dab7e851efa2529082602.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/5022ec28b9fa76c6a8ee81d9f754c9f3.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/53318e678f11b3a3aa7b2851b21ec7dd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/15f84c9dcb6f53fd9c0b44dd7837cd09.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/7f017fc28ac7161e869bdda2867f6aa8.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJN5BF1S3133739/dce4a564d22a9f0944c7b1bd049fb219.jpg</image>
+			</images>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
 	<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>ES, VII Рестайлинг 2</folder_id>

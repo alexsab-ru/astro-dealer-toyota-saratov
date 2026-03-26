@@ -173,7 +173,7 @@
 				<image>https://photo.toyotasever.ru/JTJCPMJA7S2019284/7a96ad51cce17459b7e221a2c2ff99ca.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCPMJA7S2019284/6da84baf8ffdf9afa25c77b0e8456b9b.jpg</image>
 			</images>
-			<video>https://rutube.ru/video/private/0f75c39e9f5c85298462951c62652483/?p=97CSx6J8Sd7I0jI02mZ5Mw</video>
+			<video/>
 		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
@@ -583,7 +583,7 @@
 			<folder_id>RX, V</folder_id>
 			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury (USA)</complectation_name>
+			<complectation_name>Luxury (Kazakhstan)</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
@@ -673,13 +673,13 @@
 				<image>https://photo.toyotasever.ru/JTJCHBJA302023072/d4fff06b005e52175b25cc3df1a49eff.jpg</image>
 			</images>
 			<video>https://rutube.ru/video/a0bb0f218bc96fbcc80c73422fd291d5/</video>
-		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-usa-черный-2025/</url></car>
+		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-kazakhstan-черный-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
 			<modification_id>350 2.4 AT (249 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury (USA)</complectation_name>
+			<complectation_name>Luxury (Kazakhstan)</complectation_name>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
@@ -774,7 +774,7 @@
 				<image>https://photo.toyotasever.ru/JTJCHBJA302024304/42b644bc5e174858b9bb1db7f96bd581.jpg</image>
 			</images>
 			<video>https://rutube.ru/video/be958d84f75cdd054ccc1cf39d6c6ebd/</video>
-		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-usa-серый-2025/</url></car>
+		<url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-350-24-at-249-лс-4wd-luxury-kazakhstan-серый-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>

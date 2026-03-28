@@ -1637,6 +1637,31 @@ Lехus является надежным, экономичным, вмести�
 		<url>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
+			<folder_id>Hilux, VIII Рестайлинг</folder_id>
+			<modification_id>2.4d MT (150 л.с.) 4WD</modification_id>
+			<body_type>Пикап Двойная кабина</body_type>
+			<complectation_name>Стандарт</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>7300000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>MR0HA3AV4T1400137</vin>
+			<phone>83532793702</phone>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyota-saratov.alexsab.ru/cars/toyota-hilux-viii-рестайлинг-24d-mt-150-лс-4wd-стандарт-платиновый-графит-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, VI (XA60)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>

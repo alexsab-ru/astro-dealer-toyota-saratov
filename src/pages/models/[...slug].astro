@@ -1,4 +1,5 @@
 ---
+import { isRouteDisabled } from '@/js/utils/siteRoutes';
 import Layout from '@/layouts/Layout.astro';
 import Model from '@/components/Model/Model.astro';
 import ModelComplectations from '@/components/Model/Complectations.astro';
@@ -8,9 +9,7 @@ import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import SeoText from '@/components/Seo/Index.astro';
 import PageH1 from '@/components/PageH1/Index.astro';
 const { slug } = Astro.params;
-
 const seoname = 'models-'+slug;
-
 
 import modelsData from '@/data/models.json';
 import { isModelVisible } from '@/js/utils/modelVisibility';
@@ -18,6 +17,7 @@ import { normalizeModelId } from '@/js/utils/normalizeModelId';
 import { getModelSectionsYML, setPrefixModelUrl } from '@/js/utils/helpers';
 import { IS_MODEL_PREFIX_URL } from '@/const';
 export async function getStaticPaths() {
+  if (isRouteDisabled('/models/')) return [];
   const { models } = modelsData;
   return models.filter(isModelVisible).map((model) => {
     return {

@@ -2,7 +2,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4500000,
+    "price": 4470000,
     "benefit": 200000
   },
   {
@@ -14,7 +14,7 @@
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 4650000,
+    "price": 4550000,
     "benefit": 200000
   }
 ]

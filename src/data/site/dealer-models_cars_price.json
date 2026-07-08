@@ -13,12 +13,6 @@
   },
   {
     "brand": "Toyota",
-    "model": "Land Cruiser Prado",
-    "price": 14850000,
-    "benefit": 250000
-  },
-  {
-    "brand": "Toyota",
     "model": "RAV4",
     "price": 4400000,
     "benefit": 0

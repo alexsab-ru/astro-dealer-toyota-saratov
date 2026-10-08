@@ -14,31 +14,31 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4780000,
-    "benefit": 0
+    "price": 4580000,
+    "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5150000,
-    "benefit": 0
+    "price": 4950000,
+    "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 12270000,
-    "benefit": 0
+    "price": 11970000,
+    "benefit": 300000
   },
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 4670000,
-    "benefit": 0
+    "price": 4470000,
+    "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Wildlander",
-    "price": 4800000,
-    "benefit": 0
+    "price": 4600000,
+    "benefit": 200000
   }
 ]

@@ -2,7 +2,7 @@
   {
     "brand": "Lexus",
     "model": "LX 600",
-    "price": 18290000,
+    "price": 18190000,
     "benefit": 0
   },
   {
@@ -26,7 +26,7 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 11970000,
+    "price": 11690000,
     "benefit": 300000
   },
   {
@@ -38,7 +38,7 @@
   {
     "brand": "Toyota",
     "model": "Wildlander",
-    "price": 4600000,
+    "price": 4670000,
     "benefit": 200000
   }
 ]

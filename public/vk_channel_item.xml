@@ -218,54 +218,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LFMJBFBF4T3013062</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</link>
-    <brand>Toyota</brand>
-    <model>RAV4, VI (XA60)</model>
-    <year>2026</year>
-    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF4T3013062/0/full.webp?v=b19c34085330</image_link>
-    <price>4680000 RUB</price>
-    <sale_price>4480000 RUB</sale_price>
-    <min_price>4480000 RUB</min_price>
-    <max_price>4680000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LFMJBFBF4T3013062</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LFMJBFBF7T3015985</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</link>
-    <brand>Toyota</brand>
-    <model>RAV4, VI (XA60)</model>
-    <year>2026</year>
-    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF4T3013062/0/full.webp?v=b19c34085330</image_link>
-    <price>4680000 RUB</price>
-    <sale_price>4480000 RUB</sale_price>
-    <min_price>4480000 RUB</min_price>
-    <max_price>4680000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LFMJBFBF7T3015985</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LFMJBFBFXT3010652</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
     <brand>Toyota</brand>
@@ -358,30 +310,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LVGEA6GF4TG002634</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVGEU76AXSG050172</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2025/</link>
-    <brand>Toyota</brand>
-    <model>Highlander, IV (XU70)</model>
-    <year>2025</year>
-    <title>Toyota Highlander, IV (XU70) Luxury 2025</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76AXSG050172/0/full.webp?v=188c3b4403e5</image_link>
-    <price>5250000 RUB</price>
-    <sale_price>5050000 RUB</sale_price>
-    <min_price>5050000 RUB</min_price>
-    <max_price>5250000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Highlander, IV (XU70), Luxury, 2.0 AT (248 л.с.) 4WD, 2025 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LVGEU76AXSG050172</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

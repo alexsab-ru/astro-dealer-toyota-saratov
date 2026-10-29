@@ -50,6 +50,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>JTEARCAJ2TK059168</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-meteor-shower-2026/</link>
+    <brand>Toyota</brand>
+    <model>Land Cruiser Prado, 250 Series</model>
+    <year>2026</year>
+    <title>Toyota Land Cruiser Prado, 250 Series VX 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/0/full.webp?v=80f8e1bef395</image_link>
+    <price>11690000 RUB</price>
+    <sale_price>11390000 RUB</sale_price>
+    <min_price>11390000 RUB</min_price>
+    <max_price>11690000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX, 2.8d AT (204 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTEARCAJ2TK059168</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>JTEARCAJ4TK056675</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-black-2026/</link>
     <brand>Toyota</brand>
@@ -178,8 +202,8 @@
     <title>Toyota Land Cruiser, 300 Series 70th Anniversary 2026</title>
     <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTMAA7BJ0T4148579/0/full.webp?v=ec60d6e6e65d</image_link>
     <price>16490000 RUB</price>
-    <sale_price>16490000 RUB</sale_price>
-    <min_price>16490000 RUB</min_price>
+    <sale_price>16090000 RUB</sale_price>
+    <min_price>16090000 RUB</min_price>
     <max_price>16490000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Toyota Land Cruiser, 300 Series, 70th Anniversary, 3.4d AT (299 л.с.) 4WD, 2026 г.</description>
@@ -224,7 +248,7 @@
     <model>RAV4, VI (XA60)</model>
     <year>2026</year>
     <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=e0e0f69469b7</image_link>
+    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/0/full.webp?v=afde42f2463f</image_link>
     <price>4680000 RUB</price>
     <sale_price>4480000 RUB</sale_price>
     <min_price>4480000 RUB</min_price>

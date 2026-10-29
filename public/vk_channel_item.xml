@@ -146,6 +146,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>JTJCPMJA5T2029605</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-caviar-2026/</link>
+    <brand>Lexus</brand>
+    <model>RX, V</model>
+    <year>2026</year>
+    <title>Lexus RX, V Enjoy 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/0/full.webp?v=6d2661cb03a1</image_link>
+    <price>8290000 RUB</price>
+    <sale_price>8290000 RUB</sale_price>
+    <min_price>8290000 RUB</min_price>
+    <max_price>8290000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJCPMJA5T2029605</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>JTJCPMJA9T2028103</id>
     <link>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-eminent-white-pearl-2026/</link>
     <brand>Lexus</brand>
@@ -262,30 +286,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LFMJBFBFXT3010795</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LVGBECEK5TG145842</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-231-hp-sport-plus-ice-cap-2026/</link>
-    <brand>Toyota</brand>
-    <model>Camry, IX (XV80) China Market</model>
-    <year>2026</year>
-    <title>Toyota Camry, IX (XV80) China Market Sport Plus 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK5TG145842/0/full.webp?v=2090f757f6a2</image_link>
-    <price>4780000 RUB</price>
-    <sale_price>4580000 RUB</sale_price>
-    <min_price>4580000 RUB</min_price>
-    <max_price>4780000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Camry, IX (XV80) China Market, Sport Plus, 2.0hyb CVT (231 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>sedan</body_style>
-    <vin>LVGBECEK5TG145842</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

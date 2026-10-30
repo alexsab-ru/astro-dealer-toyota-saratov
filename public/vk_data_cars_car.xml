@@ -3,7 +3,7 @@
   <cars>
     <car>
       <unique_id>JTEARCAJ1TK052485</unique_id>
-      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-meteor-shower-2026/</url>
+      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-bez-panoramy-meteor-shower-2026/</url>
       <mark_id>Toyota</mark_id>
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
@@ -16,7 +16,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L, 2.8d AT (204 л.с.) 4WD, 2026 г., серый</description>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L (без панорамы), 2.8d AT (204 л.с.) 4WD, 2026 г., серый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ1TK052485/0/full.webp?v=a0c1a2c6db8c</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ1TK052485/1/full.webp?v=4472d3a9fd71</image>
@@ -41,7 +41,7 @@
     </car>
     <car>
       <unique_id>JTEARCAJ2SK052042</unique_id>
-      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-ice-cap-2026/</url>
+      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-bez-panoramy-ice-cap-2026/</url>
       <mark_id>Toyota</mark_id>
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
@@ -54,7 +54,7 @@
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L, 2.8d AT (204 л.с.) 4WD, 2026 г., белый</description>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L (без панорамы), 2.8d AT (204 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2SK052042/0/full.webp?v=16d8a4e97754</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2SK052042/1/full.webp?v=33778b7f8a44</image>
@@ -111,11 +111,16 @@
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/12/full.webp?v=dcf9aa4347a3</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/13/full.webp?v=a3464589d1a5</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/14/full.webp?v=5be089153fb0</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/15/full.webp?v=ee6161e8c7e6</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/16/full.webp?v=0f433f4595c1</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/17/full.webp?v=963d1d4a44a9</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/18/full.webp?v=d566378a1d46</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/19/full.webp?v=b86dd48f7245</image>
       </images>
     </car>
     <car>
       <unique_id>JTEARCAJ4TK056675</unique_id>
-      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-black-2026/</url>
+      <url>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-bez-panoramy-black-2026/</url>
       <mark_id>Toyota</mark_id>
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
@@ -128,7 +133,7 @@
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L, 2.8d AT (204 л.с.) 4WD, 2026 г., черный</description>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L (без панорамы), 2.8d AT (204 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/0/full.webp?v=1139febe0744</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/1/full.webp?v=cf82d3b3185a</image>
@@ -258,6 +263,11 @@
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/7/full.webp?v=24f63fc72c8d</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/8/full.webp?v=d8ce902b8214</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/9/full.webp?v=e6cde0867eb6</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/10/full.webp?v=c2cb4b9948fc</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/11/full.webp?v=99900ebaf05e</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/12/full.webp?v=07d4b9d72166</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/13/full.webp?v=d7e37c4a6bb2</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/14/full.webp?v=d520f23bce1f</image>
       </images>
     </car>
     <car>
@@ -302,8 +312,8 @@
       <folder_id>LX, IV</folder_id>
       <year>2026</year>
       <vin>JTJPA7CX9T4006371</vin>
-      <price>18490000</price>
-      <sale_price>18490000</sale_price>
+      <price>18990000</price>
+      <sale_price>18990000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
@@ -346,8 +356,8 @@
       <folder_id>Land Cruiser, 300 Series</folder_id>
       <year>2026</year>
       <vin>JTMAA7BJ0T4148579</vin>
-      <price>16490000</price>
-      <sale_price>16090000</sale_price>
+      <price>16790000</price>
+      <sale_price>16390000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>400000</max_benefit>
@@ -395,15 +405,11 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=e0e0f69469b7</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/1/full.webp?v=7f9469364ca6</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/2/full.webp?v=7017fa5ef9cc</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/3/full.webp?v=38ec96bb789d</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/4/full.webp?v=9b07aebd62f7</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/5/full.webp?v=943cd879ad4a</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/6/full.webp?v=b090b6588461</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/7/full.webp?v=3bd55d00a739</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/8/full.webp?v=8f739427f09e</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/1/full.webp?v=14fa64001b8e</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/2/full.webp?v=79c83e73144d</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/3/full.webp?v=d72199d099ff</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/4/full.webp?v=836d9a7824f0</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/9/full.webp?v=51bfb7bad97a</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/10/full.webp?v=0b6ce381b3da</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/11/full.webp?v=6f7f19c52457</image>
@@ -432,15 +438,15 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/0/full.webp?v=afde42f2463f</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/0/full.webp?v=5179bb08d1ad</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/1/full.webp?v=5ff56e7e4c8b</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/2/full.webp?v=e5699c5e73e2</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/3/full.webp?v=a7703585ff8c</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/4/full.webp?v=d26fa2aa30d2</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/5/full.webp?v=19892547ac9d</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/6/full.webp?v=ef449c988feb</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/7/full.webp?v=4d6966fd5891</image>
-        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/8/full.webp?v=ece6de94c93e</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/5/full.webp?v=869e2eaa320d</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/6/full.webp?v=2cf3c8c06173</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/7/full.webp?v=98c358a1e528</image>
+        <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/8/full.webp?v=d604081a3b70</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/9/full.webp?v=7b4d00bb83a1</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/10/full.webp?v=453d447365b8</image>
         <image>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/11/full.webp?v=ac1f8c05c0a0</image>

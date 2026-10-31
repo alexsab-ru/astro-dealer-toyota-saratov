@@ -194,30 +194,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>JTJPA7CX9T4006371</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/lexus-lx-iv-500d-34d-at-299-hp-4wd-luxury-caviar-2026/</link>
-    <brand>Lexus</brand>
-    <model>LX, IV</model>
-    <year>2026</year>
-    <title>Lexus LX, IV Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJPA7CX9T4006371/0/full.webp?v=923995ac9ea8</image_link>
-    <price>18990000 RUB</price>
-    <sale_price>18990000 RUB</sale_price>
-    <min_price>18990000 RUB</min_price>
-    <max_price>18990000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Lexus LX, IV, Luxury, 500d 3.4d AT (299 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>JTJPA7CX9T4006371</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>JTMAA7BJ0T4148579</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-299-hp-4wd-70th-anniversary-black-2026/</link>
     <brand>Toyota</brand>

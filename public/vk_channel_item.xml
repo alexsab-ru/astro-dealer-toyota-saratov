@@ -8,7 +8,7 @@
     <model>Land Cruiser Prado, 250 Series</model>
     <year>2026</year>
     <title>Toyota Land Cruiser Prado, 250 Series VX-L (без панорамы) 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ1TK052485/0/full.webp?v=a0c1a2c6db8c</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ1TK052485/0/full.webp?v=a0c1a2c6db8c</image_link>
     <price>11990000 RUB</price>
     <sale_price>11690000 RUB</sale_price>
     <min_price>11690000 RUB</min_price>
@@ -32,7 +32,7 @@
     <model>Land Cruiser Prado, 250 Series</model>
     <year>2026</year>
     <title>Toyota Land Cruiser Prado, 250 Series VX-L (без панорамы) 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2SK052042/0/full.webp?v=16d8a4e97754</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2SK052042/0/full.webp?v=16d8a4e97754</image_link>
     <price>11990000 RUB</price>
     <sale_price>11690000 RUB</sale_price>
     <min_price>11690000 RUB</min_price>
@@ -50,61 +50,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>JTEARCAJ2TK059168</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-meteor-shower-2026/</link>
-    <brand>Toyota</brand>
-    <model>Land Cruiser Prado, 250 Series</model>
-    <year>2026</year>
-    <title>Toyota Land Cruiser Prado, 250 Series VX 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ2TK059168/0/full.webp?v=80f8e1bef395</image_link>
-    <price>11690000 RUB</price>
-    <sale_price>11390000 RUB</sale_price>
-    <min_price>11390000 RUB</min_price>
-    <max_price>11690000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX, 2.8d AT (204 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>JTEARCAJ2TK059168</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>JTEARCAJ4TK056675</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-bez-panoramy-black-2026/</link>
-    <brand>Toyota</brand>
-    <model>Land Cruiser Prado, 250 Series</model>
-    <year>2026</year>
-    <title>Toyota Land Cruiser Prado, 250 Series VX-L (без панорамы) 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/0/full.webp?v=1139febe0744</image_link>
-    <price>11990000 RUB</price>
-    <sale_price>11690000 RUB</sale_price>
-    <min_price>11690000 RUB</min_price>
-    <max_price>11990000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L (без панорамы), 2.8d AT (204 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>JTEARCAJ4TK056675</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>JTJCMBHA202022271</id>
     <link>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-500h-24hyb-at-371-hp-4wd-f-sport-performance-plus-eminent-white-pearl-2026/</link>
     <brand>Lexus</brand>
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V F Sport Performance+ 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCMBHA202022271/0/full.webp?v=dd3cc21f5e3b</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCMBHA202022271/0/full.webp?v=dd3cc21f5e3b</image_link>
     <price>13990000 RUB</price>
     <sale_price>13990000 RUB</sale_price>
     <min_price>13990000 RUB</min_price>
@@ -128,7 +80,7 @@
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V F Sport Performance+ 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCMBHAX02022180/0/full.webp?v=7345cbbff378</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCMBHAX02022180/0/full.webp?v=7345cbbff378</image_link>
     <price>13990000 RUB</price>
     <sale_price>13990000 RUB</sale_price>
     <min_price>13990000 RUB</min_price>
@@ -152,7 +104,7 @@
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V Enjoy 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/0/full.webp?v=6d2661cb03a1</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA5T2029605/0/full.webp?v=6d2661cb03a1</image_link>
     <price>8290000 RUB</price>
     <sale_price>8290000 RUB</sale_price>
     <min_price>8290000 RUB</min_price>
@@ -176,11 +128,11 @@
     <model>RX, V</model>
     <year>2026</year>
     <title>Lexus RX, V Enjoy 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA9T2028103/0/full.webp?v=993d41b266fc</image_link>
-    <price>8590000 RUB</price>
-    <sale_price>8590000 RUB</sale_price>
-    <min_price>8590000 RUB</min_price>
-    <max_price>8590000 RUB</max_price>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA9T2028103/0/full.webp?v=993d41b266fc</image_link>
+    <price>8390000 RUB</price>
+    <sale_price>8390000 RUB</sale_price>
+    <min_price>8390000 RUB</min_price>
+    <max_price>8390000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Белый</exterior_color>
@@ -194,13 +146,37 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>JTJJM5FX305323288</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/lexus-gx-ii-facelift-2-460-46-at-296-hp-4wd-executive-5-sport-gray-2022/</link>
+    <brand>Lexus</brand>
+    <model>GX, II Рестайлинг 2</model>
+    <year>2022</year>
+    <title>Lexus GX, II Рестайлинг 2 Executive 5 Sport 2022</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJJM5FX305323288/0/full.webp?v=89dbcdbaa368</image_link>
+    <price>12990000 RUB</price>
+    <sale_price>12990000 RUB</sale_price>
+    <min_price>12990000 RUB</min_price>
+    <max_price>12990000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus GX, II Рестайлинг 2, Executive 5 Sport, 460 4.6 AT (296 л.с.) 4WD, 2022 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJJM5FX305323288</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>JTMAA7BJ0T4148579</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-300-series-34d-at-299-hp-4wd-70th-anniversary-black-2026/</link>
     <brand>Toyota</brand>
     <model>Land Cruiser, 300 Series</model>
     <year>2026</year>
     <title>Toyota Land Cruiser, 300 Series 70th Anniversary 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/JTMAA7BJ0T4148579/0/full.webp?v=ec60d6e6e65d</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTMAA7BJ0T4148579/0/full.webp?v=ec60d6e6e65d</image_link>
     <price>16790000 RUB</price>
     <sale_price>16390000 RUB</sale_price>
     <min_price>16390000 RUB</min_price>
@@ -224,7 +200,7 @@
     <model>RAV4, VI (XA60)</model>
     <year>2026</year>
     <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image_link>
     <price>4680000 RUB</price>
     <sale_price>4480000 RUB</sale_price>
     <min_price>4480000 RUB</min_price>
@@ -248,7 +224,7 @@
     <model>RAV4, VI (XA60)</model>
     <year>2026</year>
     <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/0/full.webp?v=5179bb08d1ad</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBFXT3010795/0/full.webp?v=5179bb08d1ad</image_link>
     <price>4680000 RUB</price>
     <sale_price>4480000 RUB</sale_price>
     <min_price>4480000 RUB</min_price>
@@ -272,7 +248,7 @@
     <model>Wildlander, II</model>
     <year>2026</year>
     <title>Toyota Wildlander, II Pro+ 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/0/full.webp?v=4bbf43793899</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/0/full.webp?v=4bbf43793899</image_link>
     <price>4870000 RUB</price>
     <sale_price>4670000 RUB</sale_price>
     <min_price>4670000 RUB</min_price>
@@ -290,13 +266,61 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LVGEU76A2TG061345</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</link>
+    <brand>Toyota</brand>
+    <model>Highlander, IV (XU70)</model>
+    <year>2026</year>
+    <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A2TG061345/0/full.webp?v=d7c2d855eaf0</image_link>
+    <price>5890000 RUB</price>
+    <sale_price>5690000 RUB</sale_price>
+    <min_price>5690000 RUB</min_price>
+    <max_price>5890000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Highlander, IV (XU70), Luxury, 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LVGEU76A2TG061345</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LVGEU76A7TG061342</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</link>
+    <brand>Toyota</brand>
+    <model>Highlander, IV (XU70)</model>
+    <year>2026</year>
+    <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A7TG061342/0/full.webp?v=0e1958b973e0</image_link>
+    <price>5890000 RUB</price>
+    <sale_price>5690000 RUB</sale_price>
+    <min_price>5690000 RUB</min_price>
+    <max_price>5890000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Highlander, IV (XU70), Luxury, 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LVGEU76A7TG061342</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LVGEU76AXTG059293</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</link>
     <brand>Toyota</brand>
     <model>Highlander, IV (XU70)</model>
     <year>2026</year>
     <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76AXTG059293/0/full.webp?v=220ef3b3486c</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76AXTG059293/0/full.webp?v=220ef3b3486c</image_link>
     <price>5890000 RUB</price>
     <sale_price>5690000 RUB</sale_price>
     <min_price>5690000 RUB</min_price>
@@ -320,7 +344,7 @@
     <model>Highlander, IV (XU70)</model>
     <year>2026</year>
     <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76AXTG059410/0/full.webp?v=2bee61dccf74</image_link>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76AXTG059410/0/full.webp?v=2bee61dccf74</image_link>
     <price>5890000 RUB</price>
     <sale_price>5690000 RUB</sale_price>
     <min_price>5690000 RUB</min_price>

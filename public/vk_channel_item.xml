@@ -218,6 +218,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LVGEA6GF4TG002634</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-wildlander-ii-20-cvt-171-hp-4wd-pro-plus-black-2026/</link>
+    <brand>Toyota</brand>
+    <model>Wildlander, II</model>
+    <year>2026</year>
+    <title>Toyota Wildlander, II Pro+ 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/0/full.webp?v=4bbf43793899</image_link>
+    <price>4880000 RUB</price>
+    <sale_price>4680000 RUB</sale_price>
+    <min_price>4680000 RUB</min_price>
+    <max_price>4880000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Wildlander, II, Pro+, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LVGEA6GF4TG002634</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LVGEU76A2TG061345</id>
     <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</link>
     <brand>Toyota</brand>

@@ -333,6 +333,43 @@
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/7/full.webp?v=582b7d4bdb33</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/8/full.webp?v=f3153d59a00d</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/9/full.webp?v=288de88169a8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/10/full.webp?v=c59dadf84900</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/11/full.webp?v=747b50fd45a8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVGEA6GF4TG002634</unique_id>
+      <url>https://toyota-saratov.alexsab.ru/cars/toyota-wildlander-ii-20-cvt-171-hp-4wd-pro-plus-black-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Wildlander, II</folder_id>
+      <year>2026</year>
+      <vin>LVGEA6GF4TG002634</vin>
+      <price>4880000</price>
+      <sale_price>4680000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Wildlander, II, Pro+, 2.0 CVT (171 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/0/full.webp?v=4bbf43793899</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/1/full.webp?v=198dfd3a98d8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/2/full.webp?v=37687b864fcc</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/3/full.webp?v=3c0f54456a31</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/4/full.webp?v=2222e1cb0a44</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/5/full.webp?v=da1c78049b9d</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/6/full.webp?v=8af0c21bbb9f</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/7/full.webp?v=9ba4ac3bc477</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/8/full.webp?v=27e196d26f49</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/9/full.webp?v=b3766788615d</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/10/full.webp?v=dd179b195bb4</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/11/full.webp?v=a25b2c004554</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/12/full.webp?v=8c7f1359d041</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/13/full.webp?v=cc1c1b343b7e</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/14/full.webp?v=6435100abe91</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEA6GF4TG002634/15/full.webp?v=659c66da6f7c</image>
       </images>
     </car>
     <car>
@@ -401,6 +438,8 @@
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/7/full.webp?v=1edf9627d179</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/8/full.webp?v=c1e235579b55</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/9/full.webp?v=105b78cb9a2a</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/10/full.webp?v=2f29ca5d7691</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/11/full.webp?v=af8fd63c4c54</image>
       </images>
     </car>
     <car>

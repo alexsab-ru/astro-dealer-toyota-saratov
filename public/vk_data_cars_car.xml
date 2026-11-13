@@ -307,43 +307,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LFMJBFBF2T3010175</unique_id>
-      <url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>RAV4, VI (XA60)</folder_id>
-      <year>2026</year>
-      <vin>LFMJBFBF2T3010175</vin>
-      <price>4780000</price>
-      <sale_price>4580000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>200000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/0/full.webp?v=02d1b5598ebf</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/1/full.webp?v=b53d3ae7b756</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/2/full.webp?v=f3a256a4eca7</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/3/full.webp?v=aedca020e2d7</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/4/full.webp?v=e316039bfafe</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/5/full.webp?v=45070c6b11d3</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/6/full.webp?v=1733c41f8021</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/7/full.webp?v=582b7d4bdb33</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/8/full.webp?v=f3153d59a00d</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/9/full.webp?v=288de88169a8</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/10/full.webp?v=c59dadf84900</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/11/full.webp?v=747b50fd45a8</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/12/full.webp?v=ea4b2ff91cb5</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/13/full.webp?v=0fc9223645d9</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/14/full.webp?v=37899d386b61</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/15/full.webp?v=53466a0ef41a</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/16/full.webp?v=41e80f9b3129</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/17/full.webp?v=e7f622fa55f6</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LVGEU76A2TG061345</unique_id>
       <url>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -417,6 +380,8 @@
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/15/full.webp?v=961af878f5bc</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/16/full.webp?v=2fce8251a0dc</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/17/full.webp?v=8db07a3e3ae3</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/18/full.webp?v=183a48185692</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/19/full.webp?v=58078f57d547</image>
       </images>
     </car>
     <car>

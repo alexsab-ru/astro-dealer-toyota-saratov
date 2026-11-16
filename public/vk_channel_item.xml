@@ -50,6 +50,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>JTEARCAJ4TK056675</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-without-panorama-black-2026/</link>
+    <brand>Toyota</brand>
+    <model>Land Cruiser Prado, 250 Series</model>
+    <year>2026</year>
+    <title>Toyota Land Cruiser Prado, 250 Series VX-L (без панорамы) 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/0/full.webp?v=1139febe0744</image_link>
+    <price>11990000 RUB</price>
+    <sale_price>11690000 RUB</sale_price>
+    <min_price>11690000 RUB</min_price>
+    <max_price>11990000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Land Cruiser Prado, 250 Series, VX-L (без панорамы), 2.8d AT (204 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTEARCAJ4TK056675</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>JTJCMBHA202022271</id>
     <link>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-500h-24hyb-at-371-hp-4wd-f-sport-performance-plus-eminent-white-pearl-2026/</link>
     <brand>Lexus</brand>
@@ -190,6 +214,30 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>JTMAA7BJ0T4148579</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LFMJBFBF0T3011986</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
+    <brand>Toyota</brand>
+    <model>RAV4, VI (XA60)</model>
+    <year>2026</year>
+    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image_link>
+    <price>4780000 RUB</price>
+    <sale_price>4580000 RUB</sale_price>
+    <min_price>4580000 RUB</min_price>
+    <max_price>4780000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LFMJBFBF0T3011986</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

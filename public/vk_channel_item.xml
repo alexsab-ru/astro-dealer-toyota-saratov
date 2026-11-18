@@ -201,10 +201,10 @@
     <year>2026</year>
     <title>Toyota Land Cruiser, 300 Series 70th Anniversary 2026</title>
     <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTMAA7BJ0T4148579/0/full.webp?v=ec60d6e6e65d</image_link>
-    <price>16790000 RUB</price>
-    <sale_price>16390000 RUB</sale_price>
-    <min_price>16390000 RUB</min_price>
-    <max_price>16790000 RUB</max_price>
+    <price>16490000 RUB</price>
+    <sale_price>16090000 RUB</sale_price>
+    <min_price>16090000 RUB</min_price>
+    <max_price>16490000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Toyota Land Cruiser, 300 Series, 70th Anniversary, 3.4d AT (299 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Черный</exterior_color>
@@ -242,50 +242,74 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LVGEU76A2TG061345</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</link>
+    <id>LFMJBFBF3T3013277</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</link>
     <brand>Toyota</brand>
-    <model>Highlander, IV (XU70)</model>
+    <model>RAV4, VI (XA60)</model>
     <year>2026</year>
-    <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A2TG061345/0/full.webp?v=d7c2d855eaf0</image_link>
-    <price>5890000 RUB</price>
-    <sale_price>5690000 RUB</sale_price>
-    <min_price>5690000 RUB</min_price>
-    <max_price>5890000 RUB</max_price>
+    <title>Toyota RAV4, VI (XA60) Luxury 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image_link>
+    <price>4780000 RUB</price>
+    <sale_price>4580000 RUB</sale_price>
+    <min_price>4580000 RUB</min_price>
+    <max_price>4780000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Highlander, IV (XU70), Luxury, 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
+    <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
-    <vin>LVGEU76A2TG061345</vin>
+    <vin>LFMJBFBF3T3013277</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LVGEU76A5TG061355</id>
-    <link>https://toyota-saratov.alexsab.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</link>
+    <id>LVGBECEK1TG155137</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-231-hp-sport-plus-underground-2026/</link>
     <brand>Toyota</brand>
-    <model>Highlander, IV (XU70)</model>
+    <model>Camry, IX (XV80) China Market</model>
     <year>2026</year>
-    <title>Toyota Highlander, IV (XU70) Luxury 2026</title>
-    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGEU76A5TG061355/0/full.webp?v=0433ee2a2079</image_link>
-    <price>5890000 RUB</price>
-    <sale_price>5690000 RUB</sale_price>
-    <min_price>5690000 RUB</min_price>
-    <max_price>5890000 RUB</max_price>
+    <title>Toyota Camry, IX (XV80) China Market Sport Plus 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK1TG155137/0/full.webp?v=feef270ac4c5</image_link>
+    <price>4990000 RUB</price>
+    <sale_price>4790000 RUB</sale_price>
+    <min_price>4790000 RUB</min_price>
+    <max_price>4990000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Highlander, IV (XU70), Luxury, 2.0 AT (248 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
+    <description>Автомобиль Toyota Camry, IX (XV80) China Market, Sport Plus, 2.0hyb CVT (231 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
-    <body_style>suv</body_style>
-    <vin>LVGEU76A5TG061355</vin>
+    <body_style>sedan</body_style>
+    <vin>LVGBECEK1TG155137</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LVGBECEK8TG155135</id>
+    <link>https://toyota-saratov.alexsab.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-231-hp-sport-plus-underground-2026/</link>
+    <brand>Toyota</brand>
+    <model>Camry, IX (XV80) China Market</model>
+    <year>2026</year>
+    <title>Toyota Camry, IX (XV80) China Market Sport Plus 2026</title>
+    <image_link>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK8TG155135/0/full.webp?v=be02fac4306f</image_link>
+    <price>4990000 RUB</price>
+    <sale_price>4790000 RUB</sale_price>
+    <min_price>4790000 RUB</min_price>
+    <max_price>4990000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Camry, IX (XV80) China Market, Sport Plus, 2.0hyb CVT (231 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>LVGBECEK8TG155135</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

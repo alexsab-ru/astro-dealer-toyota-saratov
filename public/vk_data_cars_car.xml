@@ -106,6 +106,8 @@
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/7/full.webp?v=4e3d6cafef2b</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/8/full.webp?v=d8c6a795a487</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/9/full.webp?v=fb0df70fa226</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/10/full.webp?v=02518c7e95f2</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTEARCAJ4TK056675/11/full.webp?v=f57544aff36e</image>
       </images>
     </car>
     <car>
@@ -373,6 +375,45 @@
       </images>
     </car>
     <car>
+      <unique_id>LFMJBFBF2T3010175</unique_id>
+      <url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>RAV4, VI (XA60)</folder_id>
+      <year>2026</year>
+      <vin>LFMJBFBF2T3010175</vin>
+      <price>4780000</price>
+      <sale_price>4580000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/0/full.webp?v=02d1b5598ebf</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/1/full.webp?v=b53d3ae7b756</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/2/full.webp?v=f3a256a4eca7</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/3/full.webp?v=aedca020e2d7</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/4/full.webp?v=e316039bfafe</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/5/full.webp?v=45070c6b11d3</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/6/full.webp?v=1733c41f8021</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/7/full.webp?v=582b7d4bdb33</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/8/full.webp?v=f3153d59a00d</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/9/full.webp?v=288de88169a8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/10/full.webp?v=c59dadf84900</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/11/full.webp?v=747b50fd45a8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/12/full.webp?v=ea4b2ff91cb5</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/13/full.webp?v=0fc9223645d9</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/14/full.webp?v=37899d386b61</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/15/full.webp?v=53466a0ef41a</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/16/full.webp?v=41e80f9b3129</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/17/full.webp?v=e7f622fa55f6</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/18/full.webp?v=44fe061d1681</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/19/full.webp?v=867468f04373</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LFMJBFBF3T3013277</unique_id>
       <url>https://toyota-saratov.alexsab.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url>
       <mark_id>Toyota</mark_id>
@@ -389,24 +430,26 @@
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Toyota RAV4, VI (XA60), Luxury, 2.0 CVT (171 л.с.) 4WD, 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/0/full.webp?v=bf1ed033e0e7</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/1/full.webp?v=14fa64001b8e</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/2/full.webp?v=79c83e73144d</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/3/full.webp?v=d72199d099ff</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/4/full.webp?v=c5cfbc602758</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/5/full.webp?v=64fde37597f0</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/6/full.webp?v=1d5d4a78cbf2</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/7/full.webp?v=b971dc9e1a12</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/8/full.webp?v=8df42a0417b1</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/9/full.webp?v=51bfb7bad97a</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/10/full.webp?v=0b6ce381b3da</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/11/full.webp?v=6f7f19c52457</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/12/full.webp?v=adcd8d205a8d</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/13/full.webp?v=bb714a644ef0</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/14/full.webp?v=39c58bfcb0f1</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/15/full.webp?v=597c41e13570</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/16/full.webp?v=2234e30aa48f</image>
-        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF0T3011986/17/full.webp?v=4e13466a0b82</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/0/full.webp?v=02d1b5598ebf</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/1/full.webp?v=b53d3ae7b756</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/2/full.webp?v=f3a256a4eca7</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/3/full.webp?v=aedca020e2d7</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/4/full.webp?v=e316039bfafe</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/5/full.webp?v=45070c6b11d3</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/6/full.webp?v=1733c41f8021</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/7/full.webp?v=582b7d4bdb33</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/8/full.webp?v=f3153d59a00d</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/9/full.webp?v=288de88169a8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/10/full.webp?v=c59dadf84900</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/11/full.webp?v=747b50fd45a8</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/12/full.webp?v=ea4b2ff91cb5</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/13/full.webp?v=0fc9223645d9</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/14/full.webp?v=37899d386b61</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/15/full.webp?v=53466a0ef41a</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/16/full.webp?v=41e80f9b3129</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/17/full.webp?v=e7f622fa55f6</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/18/full.webp?v=44fe061d1681</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LFMJBFBF2T3010175/19/full.webp?v=867468f04373</image>
       </images>
     </car>
     <car>
@@ -428,6 +471,8 @@
       <images>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK1TG155137/0/full.webp?v=feef270ac4c5</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK1TG155137/1/full.webp?v=f372c6eb3d04</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK1TG155137/2/full.webp?v=35d5698269a9</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK1TG155137/3/full.webp?v=cb48fe81d5ab</image>
       </images>
     </car>
     <car>
@@ -449,6 +494,8 @@
       <images>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK8TG155135/0/full.webp?v=be02fac4306f</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK8TG155135/1/full.webp?v=d2ed7bce9083</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK8TG155135/2/full.webp?v=a47486b3ee75</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/LVGBECEK8TG155135/3/full.webp?v=6fbce204151c</image>
       </images>
     </car>
     <car>

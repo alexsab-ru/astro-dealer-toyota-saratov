@@ -198,6 +198,27 @@
       </images>
     </car>
     <car>
+      <unique_id>JTJCPMJA4T2030969</unique_id>
+      <url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-iridium-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA4T2030969</vin>
+      <price>8290000</price>
+      <sale_price>8290000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>0</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/0/full.webp?v=b3ce764902cd</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/1/full.webp?v=c10ae6d09c6e</image>
+      </images>
+    </car>
+    <car>
       <unique_id>JTJCPMJA5T2029605</unique_id>
       <url>https://toyota-saratov.alexsab.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-caviar-2026/</url>
       <mark_id>Lexus</mark_id>

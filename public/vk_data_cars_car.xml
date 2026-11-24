@@ -8,8 +8,8 @@
       <folder_id>Land Cruiser Prado, 250 Series</folder_id>
       <year>2026</year>
       <vin>JTEARCAJ1TK052485</vin>
-      <price>11990000</price>
-      <sale_price>11690000</sale_price>
+      <price>11890000</price>
+      <sale_price>11590000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>300000</max_benefit>
@@ -204,20 +204,22 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA4T2030969</vin>
-      <price>8290000</price>
-      <sale_price>8290000</sale_price>
+      <price>7990000</price>
+      <sale_price>7990000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
-      <color>серебряный</color>
+      <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., серебряный</description>
+      <description>Автомобиль Lexus RX, V, Enjoy, 300 2.0 AT (248 л.с.) 4WD, 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/0/full.webp?v=b3ce764902cd</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/1/full.webp?v=c10ae6d09c6e</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/2/full.webp?v=8ddae9a01c47</image>
         <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/3/full.webp?v=ed6465cfe290</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/4/full.webp?v=795e759cb0b3</image>
+        <image>https://img.upspace.ru/cars/toyota-saratov.alexsab.ru/new/JTJCPMJA4T2030969/5/full.webp?v=71a31c4baae0</image>
       </images>
     </car>
     <car>
@@ -227,8 +229,8 @@
       <folder_id>RX, V</folder_id>
       <year>2026</year>
       <vin>JTJCPMJA5T2029605</vin>
-      <price>8290000</price>
-      <sale_price>8290000</sale_price>
+      <price>8190000</price>
+      <sale_price>8190000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>0</max_benefit>
